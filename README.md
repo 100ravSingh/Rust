@@ -114,9 +114,8 @@ cargo run
 
 ---
 
----
 
-## 🧠 Project Architecture: `main.rs`, `lib.rs`, and `bin/*.rs`
+## 🧠 Project Architecture: `my_calculator`
 
 This Rust calculator is designed using a clean, modular architecture that separates concerns between:
 
