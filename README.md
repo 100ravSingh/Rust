@@ -6,9 +6,10 @@ This tutorial provides a quick start guide to installing Rust and running your f
 
 ## 📘 Lessons
 
-| Lesson | Description                         |
-|--------|-------------------------------------|
-| 1️⃣     | [My Calculator](./my_calculator/README.md) – A modular Rust CLI calculator using `lib.rs`, `main.rs`, and `bin/*.rs` |
+| Lesson | Description                                                                 |
+|--------|-----------------------------------------------------------------------------|
+| 1️⃣     | [Hello World](./hello_world/README.md) – Your first Rust program with `fn main()` and `println!()` |
+| 2️⃣     | [My Calculator](./my_calculator/README.md) – A modular Rust CLI calculator using `lib.rs`, `main.rs`, and `bin/*.rs` |
 
 ---
 
