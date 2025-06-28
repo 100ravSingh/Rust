@@ -4,6 +4,15 @@ This tutorial provides a quick start guide to installing Rust and running your f
 
 ---
 
+## 📘 Lessons
+
+| Lesson | Description                         |
+|--------|-------------------------------------|
+| 1️⃣     | [My Calculator](./my_calculator/README.md) – A modular Rust CLI calculator using `lib.rs`, `main.rs`, and `bin/*.rs` |
+
+---
+
+
 ## 🛠️ Installation (Linux / macOS)
 
 Open your terminal and run the following:
