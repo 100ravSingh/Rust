@@ -10,7 +10,7 @@ This tutorial provides a quick start guide to installing Rust and running your f
 |--------|-----------------------------------------------------------------------------|
 | 1️⃣     | [Hello World](./hello-world/README.md) – Your first Rust program with `fn main()` and `println!()` |
 | 2️⃣     | [My Calculator](./my_calculator/README.md) – A modular Rust CLI calculator using `lib.rs`, `main.rs`, and `bin/*.rs` |
-| 3️⃣     | [Structs and Methods](./rectangle/README.md) – Learn how to define `struct`s, implement methods with `impl`, and write unit tests in `lib.rs` |
+| 3️⃣     | [Rectangle](./rectangle/README.md) – Learn how to define `struct`s, implement methods with `impl`, and write unit tests in `lib.rs` |
 
 ---
 
