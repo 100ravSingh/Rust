@@ -1,0 +1,11 @@
+{
+  "name": "Rust Dev Container",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "extensions": [
+    "rust-lang.rust-analyzer",
+    "vadimcn.vscode-lldb"
+  ],
+  "postCreateCommand": "cargo build"
+}
